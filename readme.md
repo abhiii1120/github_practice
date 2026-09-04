@@ -22,3 +22,6 @@ git branch branch-name
 git branch
 git status
 git switch branch-name
+
+git merge
+git branch -d branch-name
