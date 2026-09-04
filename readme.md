@@ -22,3 +22,5 @@ git branch branch-name
 git branch
 git status
 git switch branch-name
+
+git stash 
