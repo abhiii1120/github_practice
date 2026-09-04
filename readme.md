@@ -17,3 +17,8 @@ git log --oneline
 git remote add origin your-address
 git branch -M main
 git push -u origin main
+
+git branch branch-name
+git branch
+git status
+git switch branch-name
